@@ -6,6 +6,8 @@ namespace Shape {
 
 using namespace std;
 
+class Square {};
+
 class Circle {};
 
 

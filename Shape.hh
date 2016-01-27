@@ -8,6 +8,8 @@ using namespace std;
 
 class Square {};
 
+class Circle {};
+
 
 } // namespace Shape
 
